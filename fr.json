@@ -1,0 +1,874 @@
+{
+  "MA": [
+    {
+      "MA1": "Aïn Harrouda"
+    },
+    {
+      "MA2": "Bouskoura"
+    },
+    {
+      "MA3": "Casablanca"
+    },
+    {
+      "MA4": "Médiouna"
+    },
+    {
+      "MA5": "Mohammédia"
+    },
+    {
+      "MA6": "Tit Mellil"
+    },
+    {
+      "MA7": "Bejaâd"
+    },
+    {
+      "MA8": "Ben Ahmed"
+    },
+    {
+      "MA9": "Benslimane"
+    },
+    {
+      "MA10": "Boujniba"
+    },
+    {
+      "MA11": "Boulanouare"
+    },
+    {
+      "MA12": "Bouznika"
+    },
+    {
+      "MA13": "Deroua"
+    },
+    {
+      "MA14": "El Borouj"
+    },
+    {
+      "MA15": "El Gara"
+    },
+    {
+      "MA16": "Guisser"
+    },
+    {
+      "MA17": "Hattane"
+    },
+    {
+      "MA18": "Khouribga"
+    },
+    {
+      "MA19": "Loulad"
+    },
+    {
+      "MA20": "Oued Zem"
+    },
+    {
+      "MA21": "Oulad Abbou"
+    },
+    {
+      "MA22": "Oulad Saïd"
+    },
+    {
+      "MA23": "Ras El Aïn"
+    },
+    {
+      "MA24": "Settat"
+    },
+    {
+      "MA25": "Soualem"
+    },
+    {
+      "MA26": "Azemmour"
+    },
+    {
+      "MA27": "Bouguedra"
+    },
+    {
+      "MA28": "Echemmaia"
+    },
+    {
+      "MA29": "Hrara"
+    },
+    {
+      "MA30": "Ighoud"
+    },
+    {
+      "MA31": "Jamâat Shaim"
+    },
+    {
+      "MA32": "Jorf Lasfar"
+    },
+    {
+      "MA33": "Zemamra"
+    },
+    {
+      "MA34": "Laaounate"
+    },
+    {
+      "MA35": "Moulay Abdallah"
+    },
+    {
+      "MA36": "Oulad Amrane"
+    },
+    {
+      "MA37": "Oulad Frej"
+    },
+    {
+      "MA38": "Oulad Ghadbane"
+    },
+    {
+      "MA39": "Safi"
+    },
+    {
+      "MA40": "Sebt El Maârif"
+    },
+    {
+      "MA41": "Sebt Gzoula"
+    },
+    {
+      "MA42": "Youssoufia"
+    },
+    {
+      "MA43": "Fès"
+    },
+    {
+      "MA44": "Aïn Cheggag"
+    },
+    {
+      "MA45": "Bhalil"
+    },
+    {
+      "MA46": "Boulemane"
+    },
+    {
+      "MA47": "El Menzel"
+    },
+    {
+      "MA48": "Guigou"
+    },
+    {
+      "MA49": "Imouzzer Kandar"
+    },
+    {
+      "MA50": "Imouzzer Marmoucha"
+    },
+    {
+      "MA51": "Missour"
+    },
+    {
+      "MA52": "Moulay Yaâcoub"
+    },
+    {
+      "MA53": "Ouled Tayeb"
+    },
+    {
+      "MA54": "Outat El Haj"
+    },
+    {
+      "MA55": "Ribate El Kheir"
+    },
+    {
+      "MA56": "Séfrou"
+    },
+    {
+      "MA57": "Skhinate"
+    },
+    {
+      "MA58": "Tafajight"
+    },
+    {
+      "MA59": "Arbaoua"
+    },
+    {
+      "MA60": "Aïn Dorij"
+    },
+    {
+      "MA61": "Dar Gueddari"
+    },
+    {
+      "MA62": "Had Kourt"
+    },
+    {
+      "MA63": "Jorf El Melha"
+    },
+    {
+      "MA64": "Kénitra"
+    },
+    {
+      "MA65": "Khenichet"
+    },
+    {
+      "MA66": "Lalla Mimouna"
+    },
+    {
+      "MA67": "Mechra Bel Ksiri"
+    },
+    {
+      "MA68": "Mehdia"
+    },
+    {
+      "MA69": "Moulay Bousselham"
+    },
+    {
+      "MA70": "Souk El Arbaa"
+    },
+    {
+      "MA71": "Akka"
+    },
+    {
+      "MA72": "Assa"
+    },
+    {
+      "MA73": "Bouizakarne"
+    },
+    {
+      "MA74": "El Ouatia"
+    },
+    {
+      "MA75": "Es-Semara"
+    },
+    {
+      "MA76": "Fam El Hisn"
+    },
+    {
+      "MA77": "Guelmim"
+    },
+    {
+      "MA78": "Taghjijt"
+    },
+    {
+      "MA79": "Tan-Tan"
+    },
+    {
+      "MA80": "Tata"
+    },
+    {
+      "MA81": "Zag"
+    },
+    {
+      "MA82": "Marrakech"
+    },
+    {
+      "MA83": "Ait Daoud"
+    },
+    {
+      "MA84": "Amizmiz"
+    },
+    {
+      "MA85": "Assahrij"
+    },
+    {
+      "MA86": "Aït Ourir"
+    },
+    {
+      "MA87": "Ben Guerir"
+    },
+    {
+      "MA88": "Chichaoua"
+    },
+    {
+      "MA89": "El Hanchane"
+    },
+    {
+      "MA90": "El Kelaâ des Sraghna"
+    },
+    {
+      "MA91": "Essaouira"
+    },
+    {
+      "MA92": "Fraïta"
+    },
+    {
+      "MA93": "Ghmate"
+    },
+    {
+      "MA94": "Ighounane"
+    },
+    {
+      "MA95": "Imintanoute"
+    },
+    {
+      "MA96": "Kattara"
+    },
+    {
+      "MA97": "Lalla Takerkoust"
+    },
+    {
+      "MA98": "Loudaya"
+    },
+    {
+      "MA99": "Lâattaouia"
+    },
+    {
+      "MA100": "Moulay Brahim"
+    },
+    {
+      "MA101": "Mzouda"
+    },
+    {
+      "MA102": "Ounagha"
+    },
+    {
+      "MA103": "Skhour Rehamna"
+    },
+    {
+      "MA104": "Smimou"
+    },
+    {
+      "MA105": "Tafetachte"
+    },
+    {
+      "MA106": "Tahannaout"
+    },
+    {
+      "MA107": "Talmest"
+    },
+    {
+      "MA108": "Tamallalt"
+    },
+    {
+      "MA109": "Tamanar"
+    },
+    {
+      "MA110": "Tamansourt"
+    },
+    {
+      "MA111": "Tameslouht"
+    },
+    {
+      "MA112": "Tanalt"
+    },
+    {
+      "MA113": "Meknès‎"
+    },
+    {
+      "MA114": "Khénifra"
+    },
+    {
+      "MA115": "Agourai"
+    },
+    {
+      "MA116": "Ain Taoujdate"
+    },
+    {
+      "MA117": "MyAliCherif"
+    },
+    {
+      "MA118": "Rissani"
+    },
+    {
+      "MA119": "Amalou Ighriben"
+    },
+    {
+      "MA120": "Aoufous"
+    },
+    {
+      "MA121": "Arfoud"
+    },
+    {
+      "MA122": "Azrou"
+    },
+    {
+      "MA123": "Aïn Jemaa"
+    },
+    {
+      "MA124": "Aïn Karma"
+    },
+    {
+      "MA125": "Aïn Leuh"
+    },
+    {
+      "MA126": "Aït Ishaq"
+    },
+    {
+      "MA127": "Boudnib"
+    },
+    {
+      "MA128": "Boufakrane"
+    },
+    {
+      "MA129": "Boumia"
+    },
+    {
+      "MA130": "El Hajeb"
+    },
+    {
+      "MA131": "Elkbab"
+    },
+    {
+      "MA132": "Er-Rich"
+    },
+    {
+      "MA133": "Gardmit"
+    },
+    {
+      "MA134": "Goulmima"
+    },
+    {
+      "MA135": "Gourrama"
+    },
+    {
+      "MA136": "Had Bouhssoussen"
+    },
+    {
+      "MA137": "Haj Kaddour"
+    },
+    {
+      "MA138": "Ifrane"
+    },
+    {
+      "MA139": "Itzer"
+    },
+    {
+      "MA140": "Jorf"
+    },
+    {
+      "MA141": "Kehf Nsour"
+    },
+    {
+      "MA142": "Kerrouchen"
+    },
+    {
+      "MA143": "Moulay Bouazza"
+    },
+    {
+      "MA144": "Oued Ifrane"
+    },
+    {
+      "MA145": "Sabaa Aiyoun"
+    },
+    {
+      "MA146": "Sebt Jahjouh"
+    },
+    {
+      "MA147": "Tighassaline"
+    },
+    {
+      "MA148": "Tighza"
+    },
+    {
+      "MA149": "Timahdite"
+    },
+    {
+      "MA150": "Tinejdad"
+    },
+    {
+      "MA151": "Tizguite"
+    },
+    {
+      "MA152": "Toulal"
+    },
+    {
+      "MA153": "Tounfite"
+    },
+    {
+      "MA154": "Zaïda"
+    },
+    {
+      "MA155": "Ahfir"
+    },
+    {
+      "MA156": "Aklim"
+    },
+    {
+      "MA157": "Al Aroui"
+    },
+    {
+      "MA158": "Aïn Bni Mathar"
+    },
+    {
+      "MA159": "Aïn Erreggada"
+    },
+    {
+      "MA160": "Ben Taïeb"
+    },
+    {
+      "MA161": "Berkane"
+    },
+    {
+      "MA162": "Bni Ansar"
+    },
+    {
+      "MA163": "Bni Chiker"
+    },
+    {
+      "MA164": "Bni Drar"
+    },
+    {
+      "MA165": "Bni Tadjite"
+    },
+    {
+      "MA166": "Bouanane"
+    },
+    {
+      "MA167": "Bouarfa"
+    },
+    {
+      "MA168": "Bouhdila"
+    },
+    {
+      "MA169": "Dar El Kebdani"
+    },
+    {
+      "MA170": "Debdou"
+    },
+    {
+      "MA171": "Douar Kannine"
+    },
+    {
+      "MA172": "Driouch"
+    },
+    {
+      "MA173": "Farkhana"
+    },
+    {
+      "MA174": "Figuig"
+    },
+    {
+      "MA175": "Ihddaden"
+    },
+    {
+      "MA176": "Jaâdar"
+    },
+    {
+      "MA177": "Jerada"
+    },
+    {
+      "MA178": "Kariat Arekmane"
+    },
+    {
+      "MA179": "Kassita"
+    },
+    {
+      "MA180": "Kerouna"
+    },
+    {
+      "MA181": "Laâtamna"
+    },
+    {
+      "MA182": "Nador"
+    },
+    {
+      "MA183": "Naima"
+    },
+    {
+      "MA184": "Oued Heimer"
+    },
+    {
+      "MA185": "Oujda"
+    },
+    {
+      "MA186": "Ras El Ma"
+    },
+    {
+      "MA187": "Saïdia"
+    },
+    {
+      "MA188": "Selouane"
+    },
+    {
+      "MA189": "Talsint"
+    },
+    {
+      "MA190": "Taourirt"
+    },
+    {
+      "MA191": "Tendrara"
+    },
+    {
+      "MA192": "Tiztoutine"
+    },
+    {
+      "MA193": "Touima"
+    },
+    {
+      "MA194": "Touissit"
+    },
+    {
+      "MA195": "Zaïo"
+    },
+    {
+      "MA196": "Zeghanghane"
+    },
+    {
+      "MA197": "Rabat"
+    },
+    {
+      "MA198": "Salé"
+    },
+    {
+      "MA199": "Ain El Aouda"
+    },
+    {
+      "MA200": "Harhoura"
+    },
+    {
+      "MA201": "Khémisset"
+    },
+    {
+      "MA202": "Oulmès"
+    },
+    {
+      "MA203": "Rommani"
+    },
+    {
+      "MA204": "Skhirat"
+    },
+    {
+      "MA205": "Tamesna"
+    },
+    {
+      "MA206": "Témara"
+    },
+    {
+      "MA207": "Tiflet"
+    },
+    {
+      "MA208": "Touarga"
+    },
+    {
+      "MA209": "Agadir"
+    },
+    {
+      "MA210": "Agdz"
+    },
+    {
+      "MA211": "Agni Izimmer"
+    },
+    {
+      "MA212": "Aït Melloul"
+    },
+    {
+      "MA213": "Alnif"
+    },
+    {
+      "MA214": "Anzi"
+    },
+    {
+      "MA215": "Aoulouz"
+    },
+    {
+      "MA216": "Aourir"
+    },
+    {
+      "MA217": "Arazane"
+    },
+    {
+      "MA218": "Aït Baha"
+    },
+    {
+      "MA219": "Aït Iaâza"
+    },
+    {
+      "MA220": "Aït Yalla"
+    },
+    {
+      "MA221": "Biougra"
+    },
+    {
+      "MA222": "Boumalne-Dadès"
+    },
+    {
+      "MA223": "Dcheira El Jihadia"
+    },
+    {
+      "MA224": "Drargua"
+    },
+    {
+      "MA225": "El Guerdane"
+    },
+    {
+      "MA226": "Harte Lyamine"
+    },
+    {
+      "MA227": "Inezgane"
+    },
+    {
+      "MA228": "Irherm"
+    },
+    {
+      "MA229": "Lakhsas"
+    },
+    {
+      "MA230": "Lqliâa"
+    },
+    {
+      "MA231": "Ouarzazate"
+    },
+    {
+      "MA232": "Oulad Berhil"
+    },
+    {
+      "MA233": "Oulad Teïma"
+    },
+    {
+      "MA234": "Skoura"
+    },
+    {
+      "MA235": "Tafraout"
+    },
+    {
+      "MA236": "Taliouine"
+    },
+    {
+      "MA237": "Tamegroute"
+    },
+    {
+      "MA238": "Taroudant"
+    },
+    {
+      "MA239": "Tiznit"
+    },
+    {
+      "MA240": "Zagora"
+    },
+    {
+      "MA241": "Afourar"
+    },
+    {
+      "MA242": "Azilal"
+    },
+    {
+      "MA243": "Béni Mellal"
+    },
+    {
+      "MA244": "Bradia"
+    },
+    {
+      "MA245": "Bzou"
+    },
+    {
+      "MA246": "Demnate"
+    },
+    {
+      "MA247": "El Ksiba"
+    },
+    {
+      "MA248": "Foum Jamaa"
+    },
+    {
+      "MA249": "Fquih Ben Salah"
+    },
+    {
+      "MA250": "Kasba Tadla"
+    },
+    {
+      "MA251": "Ouaouizeght"
+    },
+    {
+      "MA252": "Oulad Nemma"
+    },
+    {
+      "MA253": "Zaouïat Cheikh"
+    },
+    {
+      "MA254": "Tanger‎"
+    },
+    {
+      "MA255": "Tétouan‎"
+    },
+    {
+      "MA256": "Assilah"
+    },
+    {
+      "MA257": "Bab Berred"
+    },
+    {
+      "MA258": "Bab Taza"
+    },
+    {
+      "MA259": "Brikcha"
+    },
+    {
+      "MA260": "Chefchaouen"
+    },
+    {
+      "MA261": "Dar Bni Karrich"
+    },
+    {
+      "MA262": "Dar Chaoui"
+    },
+    {
+      "MA263": "Jebha"
+    },
+    {
+      "MA264": "Khémis Sahel"
+    },
+    {
+      "MA265": "Ksar El Kébir"
+    },
+    {
+      "MA266": "Larache"
+    },
+    {
+      "MA267": "Moqrisset"
+    },
+    {
+      "MA268": "Ouezzane"
+    },
+    {
+      "MA269": "Ajdir‎"
+    },
+    {
+      "MA270": "Aknoul‎"
+    },
+    {
+      "MA271": "Al Hoceïma‎"
+    },
+    {
+      "MA272": "Bni Bouayach‎"
+    },
+    {
+      "MA273": "Bni Hadifa‎"
+    },
+    {
+      "MA274": "Ghafsai‎"
+    },
+    {
+      "MA275": "Guercif‎"
+    },
+    {
+      "MA276": "Imzouren‎"
+    },
+    {
+      "MA277": "Karia Ba Mohamed‎"
+    },
+    {
+      "MA278": "Oulad Zbair‎"
+    },
+    {
+      "MA279": "Tahla‎"
+    },
+    {
+      "MA280": "Tamassint‎"
+    },
+    {
+      "MA281": "Taounate‎"
+    },
+    {
+      "MA282": "Targuist‎"
+    },
+    {
+      "MA283": "Taza‎"
+    },
+    {
+      "MA284": "Taïnaste‎"
+    },
+    {
+      "MA285": "Thar Es-Souk‎"
+    },
+    {
+      "MA286": "Tissa‎"
+    },
+    {
+      "MA287": "Laayoune‎"
+    },
+    {
+      "MA288": "El Marsa‎"
+    },
+    {
+      "MA289": "Tarfaya‎"
+    },
+    {
+      "MA290": "Boujdour‎"
+    }
+  ]
+}
