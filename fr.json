@@ -1,874 +1,1164 @@
 {
   "MA": [
     {
-      "MA1": "Aïn Harrouda"
+      "code": "MA1",
+      "name": "Aïn Harrouda"
     },
     {
-      "MA2": "Bouskoura"
+      "code": "MA2",
+      "name": "Bouskoura"
     },
     {
-      "MA3": "Casablanca"
+      "code": "MA3",
+      "name": "Casablanca"
     },
     {
-      "MA4": "Médiouna"
+      "code": "MA4",
+      "name": "Médiouna"
     },
     {
-      "MA5": "Mohammédia"
+      "code": "MA5",
+      "name": "Mohammédia"
     },
     {
-      "MA6": "Tit Mellil"
+      "code": "MA6",
+      "name": "Tit Mellil"
     },
     {
-      "MA7": "Bejaâd"
+      "code": "MA7",
+      "name": "Bejaâd"
     },
     {
-      "MA8": "Ben Ahmed"
+      "code": "MA8",
+      "name": "Ben Ahmed"
     },
     {
-      "MA9": "Benslimane"
+      "code": "MA9",
+      "name": "Benslimane"
     },
     {
-      "MA10": "Boujniba"
+      "code": "MA10",
+      "name": "Boujniba"
     },
     {
-      "MA11": "Boulanouare"
+      "code": "MA11",
+      "name": "Boulanouare"
     },
     {
-      "MA12": "Bouznika"
+      "code": "MA12",
+      "name": "Bouznika"
     },
     {
-      "MA13": "Deroua"
+      "code": "MA13",
+      "name": "Deroua"
     },
     {
-      "MA14": "El Borouj"
+      "code": "MA14",
+      "name": "El Borouj"
     },
     {
-      "MA15": "El Gara"
+      "code": "MA15",
+      "name": "El Gara"
     },
     {
-      "MA16": "Guisser"
+      "code": "MA16",
+      "name": "Guisser"
     },
     {
-      "MA17": "Hattane"
+      "code": "MA17",
+      "name": "Hattane"
     },
     {
-      "MA18": "Khouribga"
+      "code": "MA18",
+      "name": "Khouribga"
     },
     {
-      "MA19": "Loulad"
+      "code": "MA19",
+      "name": "Loulad"
     },
     {
-      "MA20": "Oued Zem"
+      "code": "MA20",
+      "name": "Oued Zem"
     },
     {
-      "MA21": "Oulad Abbou"
+      "code": "MA21",
+      "name": "Oulad Abbou"
     },
     {
-      "MA22": "Oulad Saïd"
+      "code": "MA22",
+      "name": "Oulad Saïd"
     },
     {
-      "MA23": "Ras El Aïn"
+      "code": "MA23",
+      "name": "Ras El Aïn"
     },
     {
-      "MA24": "Settat"
+      "code": "MA24",
+      "name": "Settat"
     },
     {
-      "MA25": "Soualem"
+      "code": "MA25",
+      "name": "Soualem"
     },
     {
-      "MA26": "Azemmour"
+      "code": "MA26",
+      "name": "Azemmour"
     },
     {
-      "MA27": "Bouguedra"
+      "code": "MA27",
+      "name": "Bouguedra"
     },
     {
-      "MA28": "Echemmaia"
+      "code": "MA28",
+      "name": "Echemmaia"
     },
     {
-      "MA29": "Hrara"
+      "code": "MA29",
+      "name": "Hrara"
     },
     {
-      "MA30": "Ighoud"
+      "code": "MA30",
+      "name": "Ighoud"
     },
     {
-      "MA31": "Jamâat Shaim"
+      "code": "MA31",
+      "name": "Jamâat Shaim"
     },
     {
-      "MA32": "Jorf Lasfar"
+      "code": "MA32",
+      "name": "Jorf Lasfar"
     },
     {
-      "MA33": "Zemamra"
+      "code": "MA33",
+      "name": "Zemamra"
     },
     {
-      "MA34": "Laaounate"
+      "code": "MA34",
+      "name": "Laaounate"
     },
     {
-      "MA35": "Moulay Abdallah"
+      "code": "MA35",
+      "name": "Moulay Abdallah"
     },
     {
-      "MA36": "Oulad Amrane"
+      "code": "MA36",
+      "name": "Oulad Amrane"
     },
     {
-      "MA37": "Oulad Frej"
+      "code": "MA37",
+      "name": "Oulad Frej"
     },
     {
-      "MA38": "Oulad Ghadbane"
+      "code": "MA38",
+      "name": "Oulad Ghadbane"
     },
     {
-      "MA39": "Safi"
+      "code": "MA39",
+      "name": "Safi"
     },
     {
-      "MA40": "Sebt El Maârif"
+      "code": "MA40",
+      "name": "Sebt El Maârif"
     },
     {
-      "MA41": "Sebt Gzoula"
+      "code": "MA41",
+      "name": "Sebt Gzoula"
     },
     {
-      "MA42": "Youssoufia"
+      "code": "MA42",
+      "name": "Youssoufia"
     },
     {
-      "MA43": "Fès"
+      "code": "MA43",
+      "name": "Fès"
     },
     {
-      "MA44": "Aïn Cheggag"
+      "code": "MA44",
+      "name": "Aïn Cheggag"
     },
     {
-      "MA45": "Bhalil"
+      "code": "MA45",
+      "name": "Bhalil"
     },
     {
-      "MA46": "Boulemane"
+      "code": "MA46",
+      "name": "Boulemane"
     },
     {
-      "MA47": "El Menzel"
+      "code": "MA47",
+      "name": "El Menzel"
     },
     {
-      "MA48": "Guigou"
+      "code": "MA48",
+      "name": "Guigou"
     },
     {
-      "MA49": "Imouzzer Kandar"
+      "code": "MA49",
+      "name": "Imouzzer Kandar"
     },
     {
-      "MA50": "Imouzzer Marmoucha"
+      "code": "MA50",
+      "name": "Imouzzer Marmoucha"
     },
     {
-      "MA51": "Missour"
+      "code": "MA51",
+      "name": "Missour"
     },
     {
-      "MA52": "Moulay Yaâcoub"
+      "code": "MA52",
+      "name": "Moulay Yaâcoub"
     },
     {
-      "MA53": "Ouled Tayeb"
+      "code": "MA53",
+      "name": "Ouled Tayeb"
     },
     {
-      "MA54": "Outat El Haj"
+      "code": "MA54",
+      "name": "Outat El Haj"
     },
     {
-      "MA55": "Ribate El Kheir"
+      "code": "MA55",
+      "name": "Ribate El Kheir"
     },
     {
-      "MA56": "Séfrou"
+      "code": "MA56",
+      "name": "Séfrou"
     },
     {
-      "MA57": "Skhinate"
+      "code": "MA57",
+      "name": "Skhinate"
     },
     {
-      "MA58": "Tafajight"
+      "code": "MA58",
+      "name": "Tafajight"
     },
     {
-      "MA59": "Arbaoua"
+      "code": "MA59",
+      "name": "Arbaoua"
     },
     {
-      "MA60": "Aïn Dorij"
+      "code": "MA60",
+      "name": "Aïn Dorij"
     },
     {
-      "MA61": "Dar Gueddari"
+      "code": "MA61",
+      "name": "Dar Gueddari"
     },
     {
-      "MA62": "Had Kourt"
+      "code": "MA62",
+      "name": "Had Kourt"
     },
     {
-      "MA63": "Jorf El Melha"
+      "code": "MA63",
+      "name": "Jorf El Melha"
     },
     {
-      "MA64": "Kénitra"
+      "code": "MA64",
+      "name": "Kénitra"
     },
     {
-      "MA65": "Khenichet"
+      "code": "MA65",
+      "name": "Khenichet"
     },
     {
-      "MA66": "Lalla Mimouna"
+      "code": "MA66",
+      "name": "Lalla Mimouna"
     },
     {
-      "MA67": "Mechra Bel Ksiri"
+      "code": "MA67",
+      "name": "Mechra Bel Ksiri"
     },
     {
-      "MA68": "Mehdia"
+      "code": "MA68",
+      "name": "Mehdia"
     },
     {
-      "MA69": "Moulay Bousselham"
+      "code": "MA69",
+      "name": "Moulay Bousselham"
     },
     {
-      "MA70": "Souk El Arbaa"
+      "code": "MA70",
+      "name": "Souk El Arbaa"
     },
     {
-      "MA71": "Akka"
+      "code": "MA71",
+      "name": "Akka"
     },
     {
-      "MA72": "Assa"
+      "code": "MA72",
+      "name": "Assa"
     },
     {
-      "MA73": "Bouizakarne"
+      "code": "MA73",
+      "name": "Bouizakarne"
     },
     {
-      "MA74": "El Ouatia"
+      "code": "MA74",
+      "name": "El Ouatia"
     },
     {
-      "MA75": "Es-Semara"
+      "code": "MA75",
+      "name": "Es-Semara"
     },
     {
-      "MA76": "Fam El Hisn"
+      "code": "MA76",
+      "name": "Fam El Hisn"
     },
     {
-      "MA77": "Guelmim"
+      "code": "MA77",
+      "name": "Guelmim"
     },
     {
-      "MA78": "Taghjijt"
+      "code": "MA78",
+      "name": "Taghjijt"
     },
     {
-      "MA79": "Tan-Tan"
+      "code": "MA79",
+      "name": "Tan-Tan"
     },
     {
-      "MA80": "Tata"
+      "code": "MA80",
+      "name": "Tata"
     },
     {
-      "MA81": "Zag"
+      "code": "MA81",
+      "name": "Zag"
     },
     {
-      "MA82": "Marrakech"
+      "code": "MA82",
+      "name": "Marrakech"
     },
     {
-      "MA83": "Ait Daoud"
+      "code": "MA83",
+      "name": "Ait Daoud"
     },
     {
-      "MA84": "Amizmiz"
+      "code": "MA84",
+      "name": "Amizmiz"
     },
     {
-      "MA85": "Assahrij"
+      "code": "MA85",
+      "name": "Assahrij"
     },
     {
-      "MA86": "Aït Ourir"
+      "code": "MA86",
+      "name": "Aït Ourir"
     },
     {
-      "MA87": "Ben Guerir"
+      "code": "MA87",
+      "name": "Ben Guerir"
     },
     {
-      "MA88": "Chichaoua"
+      "code": "MA88",
+      "name": "Chichaoua"
     },
     {
-      "MA89": "El Hanchane"
+      "code": "MA89",
+      "name": "El Hanchane"
     },
     {
-      "MA90": "El Kelaâ des Sraghna"
+      "code": "MA90",
+      "name": "El Kelaâ des Sraghna"
     },
     {
-      "MA91": "Essaouira"
+      "code": "MA91",
+      "name": "Essaouira"
     },
     {
-      "MA92": "Fraïta"
+      "code": "MA92",
+      "name": "Fraïta"
     },
     {
-      "MA93": "Ghmate"
+      "code": "MA93",
+      "name": "Ghmate"
     },
     {
-      "MA94": "Ighounane"
+      "code": "MA94",
+      "name": "Ighounane"
     },
     {
-      "MA95": "Imintanoute"
+      "code": "MA95",
+      "name": "Imintanoute"
     },
     {
-      "MA96": "Kattara"
+      "code": "MA96",
+      "name": "Kattara"
     },
     {
-      "MA97": "Lalla Takerkoust"
+      "code": "MA97",
+      "name": "Lalla Takerkoust"
     },
     {
-      "MA98": "Loudaya"
+      "code": "MA98",
+      "name": "Loudaya"
     },
     {
-      "MA99": "Lâattaouia"
+      "code": "MA99",
+      "name": "Lâattaouia"
     },
     {
-      "MA100": "Moulay Brahim"
+      "code": "MA100",
+      "name": "Moulay Brahim"
     },
     {
-      "MA101": "Mzouda"
+      "code": "MA101",
+      "name": "Mzouda"
     },
     {
-      "MA102": "Ounagha"
+      "code": "MA102",
+      "name": "Ounagha"
     },
     {
-      "MA103": "Skhour Rehamna"
+      "code": "MA103",
+      "name": "Skhour Rehamna"
     },
     {
-      "MA104": "Smimou"
+      "code": "MA104",
+      "name": "Smimou"
     },
     {
-      "MA105": "Tafetachte"
+      "code": "MA105",
+      "name": "Tafetachte"
     },
     {
-      "MA106": "Tahannaout"
+      "code": "MA106",
+      "name": "Tahannaout"
     },
     {
-      "MA107": "Talmest"
+      "code": "MA107",
+      "name": "Talmest"
     },
     {
-      "MA108": "Tamallalt"
+      "code": "MA108",
+      "name": "Tamallalt"
     },
     {
-      "MA109": "Tamanar"
+      "code": "MA109",
+      "name": "Tamanar"
     },
     {
-      "MA110": "Tamansourt"
+      "code": "MA110",
+      "name": "Tamansourt"
     },
     {
-      "MA111": "Tameslouht"
+      "code": "MA111",
+      "name": "Tameslouht"
     },
     {
-      "MA112": "Tanalt"
+      "code": "MA112",
+      "name": "Tanalt"
     },
     {
-      "MA113": "Meknès‎"
+      "code": "MA113",
+      "name": "Meknès‎"
     },
     {
-      "MA114": "Khénifra"
+      "code": "MA114",
+      "name": "Khénifra"
     },
     {
-      "MA115": "Agourai"
+      "code": "MA115",
+      "name": "Agourai"
     },
     {
-      "MA116": "Ain Taoujdate"
+      "code": "MA116",
+      "name": "Ain Taoujdate"
     },
     {
-      "MA117": "MyAliCherif"
+      "code": "MA117",
+      "name": "MyAliCherif"
     },
     {
-      "MA118": "Rissani"
+      "code": "MA118",
+      "name": "Rissani"
     },
     {
-      "MA119": "Amalou Ighriben"
+      "code": "MA119",
+      "name": "Amalou Ighriben"
     },
     {
-      "MA120": "Aoufous"
+      "code": "MA120",
+      "name": "Aoufous"
     },
     {
-      "MA121": "Arfoud"
+      "code": "MA121",
+      "name": "Arfoud"
     },
     {
-      "MA122": "Azrou"
+      "code": "MA122",
+      "name": "Azrou"
     },
     {
-      "MA123": "Aïn Jemaa"
+      "code": "MA123",
+      "name": "Aïn Jemaa"
     },
     {
-      "MA124": "Aïn Karma"
+      "code": "MA124",
+      "name": "Aïn Karma"
     },
     {
-      "MA125": "Aïn Leuh"
+      "code": "MA125",
+      "name": "Aïn Leuh"
     },
     {
-      "MA126": "Aït Ishaq"
+      "code": "MA126",
+      "name": "Aït Ishaq"
     },
     {
-      "MA127": "Boudnib"
+      "code": "MA127",
+      "name": "Boudnib"
     },
     {
-      "MA128": "Boufakrane"
+      "code": "MA128",
+      "name": "Boufakrane"
     },
     {
-      "MA129": "Boumia"
+      "code": "MA129",
+      "name": "Boumia"
     },
     {
-      "MA130": "El Hajeb"
+      "code": "MA130",
+      "name": "El Hajeb"
     },
     {
-      "MA131": "Elkbab"
+      "code": "MA131",
+      "name": "Elkbab"
     },
     {
-      "MA132": "Er-Rich"
+      "code": "MA132",
+      "name": "Er-Rich"
     },
     {
-      "MA133": "Gardmit"
+      "code": "MA133",
+      "name": "Gardmit"
     },
     {
-      "MA134": "Goulmima"
+      "code": "MA134",
+      "name": "Goulmima"
     },
     {
-      "MA135": "Gourrama"
+      "code": "MA135",
+      "name": "Gourrama"
     },
     {
-      "MA136": "Had Bouhssoussen"
+      "code": "MA136",
+      "name": "Had Bouhssoussen"
     },
     {
-      "MA137": "Haj Kaddour"
+      "code": "MA137",
+      "name": "Haj Kaddour"
     },
     {
-      "MA138": "Ifrane"
+      "code": "MA138",
+      "name": "Ifrane"
     },
     {
-      "MA139": "Itzer"
+      "code": "MA139",
+      "name": "Itzer"
     },
     {
-      "MA140": "Jorf"
+      "code": "MA140",
+      "name": "Jorf"
     },
     {
-      "MA141": "Kehf Nsour"
+      "code": "MA141",
+      "name": "Kehf Nsour"
     },
     {
-      "MA142": "Kerrouchen"
+      "code": "MA142",
+      "name": "Kerrouchen"
     },
     {
-      "MA143": "Moulay Bouazza"
+      "code": "MA143",
+      "name": "Moulay Bouazza"
     },
     {
-      "MA144": "Oued Ifrane"
+      "code": "MA144",
+      "name": "Oued Ifrane"
     },
     {
-      "MA145": "Sabaa Aiyoun"
+      "code": "MA145",
+      "name": "Sabaa Aiyoun"
     },
     {
-      "MA146": "Sebt Jahjouh"
+      "code": "MA146",
+      "name": "Sebt Jahjouh"
     },
     {
-      "MA147": "Tighassaline"
+      "code": "MA147",
+      "name": "Tighassaline"
     },
     {
-      "MA148": "Tighza"
+      "code": "MA148",
+      "name": "Tighza"
     },
     {
-      "MA149": "Timahdite"
+      "code": "MA149",
+      "name": "Timahdite"
     },
     {
-      "MA150": "Tinejdad"
+      "code": "MA150",
+      "name": "Tinejdad"
     },
     {
-      "MA151": "Tizguite"
+      "code": "MA151",
+      "name": "Tizguite"
     },
     {
-      "MA152": "Toulal"
+      "code": "MA152",
+      "name": "Toulal"
     },
     {
-      "MA153": "Tounfite"
+      "code": "MA153",
+      "name": "Tounfite"
     },
     {
-      "MA154": "Zaïda"
+      "code": "MA154",
+      "name": "Zaïda"
     },
     {
-      "MA155": "Ahfir"
+      "code": "MA155",
+      "name": "Ahfir"
     },
     {
-      "MA156": "Aklim"
+      "code": "MA156",
+      "name": "Aklim"
     },
     {
-      "MA157": "Al Aroui"
+      "code": "MA157",
+      "name": "Al Aroui"
     },
     {
-      "MA158": "Aïn Bni Mathar"
+      "code": "MA158",
+      "name": "Aïn Bni Mathar"
     },
     {
-      "MA159": "Aïn Erreggada"
+      "code": "MA159",
+      "name": "Aïn Erreggada"
     },
     {
-      "MA160": "Ben Taïeb"
+      "code": "MA160",
+      "name": "Ben Taïeb"
     },
     {
-      "MA161": "Berkane"
+      "code": "MA161",
+      "name": "Berkane"
     },
     {
-      "MA162": "Bni Ansar"
+      "code": "MA162",
+      "name": "Bni Ansar"
     },
     {
-      "MA163": "Bni Chiker"
+      "code": "MA163",
+      "name": "Bni Chiker"
     },
     {
-      "MA164": "Bni Drar"
+      "code": "MA164",
+      "name": "Bni Drar"
     },
     {
-      "MA165": "Bni Tadjite"
+      "code": "MA165",
+      "name": "Bni Tadjite"
     },
     {
-      "MA166": "Bouanane"
+      "code": "MA166",
+      "name": "Bouanane"
     },
     {
-      "MA167": "Bouarfa"
+      "code": "MA167",
+      "name": "Bouarfa"
     },
     {
-      "MA168": "Bouhdila"
+      "code": "MA168",
+      "name": "Bouhdila"
     },
     {
-      "MA169": "Dar El Kebdani"
+      "code": "MA169",
+      "name": "Dar El Kebdani"
     },
     {
-      "MA170": "Debdou"
+      "code": "MA170",
+      "name": "Debdou"
     },
     {
-      "MA171": "Douar Kannine"
+      "code": "MA171",
+      "name": "Douar Kannine"
     },
     {
-      "MA172": "Driouch"
+      "code": "MA172",
+      "name": "Driouch"
     },
     {
-      "MA173": "Farkhana"
+      "code": "MA173",
+      "name": "Farkhana"
     },
     {
-      "MA174": "Figuig"
+      "code": "MA174",
+      "name": "Figuig"
     },
     {
-      "MA175": "Ihddaden"
+      "code": "MA175",
+      "name": "Ihddaden"
     },
     {
-      "MA176": "Jaâdar"
+      "code": "MA176",
+      "name": "Jaâdar"
     },
     {
-      "MA177": "Jerada"
+      "code": "MA177",
+      "name": "Jerada"
     },
     {
-      "MA178": "Kariat Arekmane"
+      "code": "MA178",
+      "name": "Kariat Arekmane"
     },
     {
-      "MA179": "Kassita"
+      "code": "MA179",
+      "name": "Kassita"
     },
     {
-      "MA180": "Kerouna"
+      "code": "MA180",
+      "name": "Kerouna"
     },
     {
-      "MA181": "Laâtamna"
+      "code": "MA181",
+      "name": "Laâtamna"
     },
     {
-      "MA182": "Nador"
+      "code": "MA182",
+      "name": "Nador"
     },
     {
-      "MA183": "Naima"
+      "code": "MA183",
+      "name": "Naima"
     },
     {
-      "MA184": "Oued Heimer"
+      "code": "MA184",
+      "name": "Oued Heimer"
     },
     {
-      "MA185": "Oujda"
+      "code": "MA185",
+      "name": "Oujda"
     },
     {
-      "MA186": "Ras El Ma"
+      "code": "MA186",
+      "name": "Ras El Ma"
     },
     {
-      "MA187": "Saïdia"
+      "code": "MA187",
+      "name": "Saïdia"
     },
     {
-      "MA188": "Selouane"
+      "code": "MA188",
+      "name": "Selouane"
     },
     {
-      "MA189": "Talsint"
+      "code": "MA189",
+      "name": "Talsint"
     },
     {
-      "MA190": "Taourirt"
+      "code": "MA190",
+      "name": "Taourirt"
     },
     {
-      "MA191": "Tendrara"
+      "code": "MA191",
+      "name": "Tendrara"
     },
     {
-      "MA192": "Tiztoutine"
+      "code": "MA192",
+      "name": "Tiztoutine"
     },
     {
-      "MA193": "Touima"
+      "code": "MA193",
+      "name": "Touima"
     },
     {
-      "MA194": "Touissit"
+      "code": "MA194",
+      "name": "Touissit"
     },
     {
-      "MA195": "Zaïo"
+      "code": "MA195",
+      "name": "Zaïo"
     },
     {
-      "MA196": "Zeghanghane"
+      "code": "MA196",
+      "name": "Zeghanghane"
     },
     {
-      "MA197": "Rabat"
+      "code": "MA197",
+      "name": "Rabat"
     },
     {
-      "MA198": "Salé"
+      "code": "MA198",
+      "name": "Salé"
     },
     {
-      "MA199": "Ain El Aouda"
+      "code": "MA199",
+      "name": "Ain El Aouda"
     },
     {
-      "MA200": "Harhoura"
+      "code": "MA200",
+      "name": "Harhoura"
     },
     {
-      "MA201": "Khémisset"
+      "code": "MA201",
+      "name": "Khémisset"
     },
     {
-      "MA202": "Oulmès"
+      "code": "MA202",
+      "name": "Oulmès"
     },
     {
-      "MA203": "Rommani"
+      "code": "MA203",
+      "name": "Rommani"
     },
     {
-      "MA204": "Skhirat"
+      "code": "MA204",
+      "name": "Skhirat"
     },
     {
-      "MA205": "Tamesna"
+      "code": "MA205",
+      "name": "Tamesna"
     },
     {
-      "MA206": "Témara"
+      "code": "MA206",
+      "name": "Témara"
     },
     {
-      "MA207": "Tiflet"
+      "code": "MA207",
+      "name": "Tiflet"
     },
     {
-      "MA208": "Touarga"
+      "code": "MA208",
+      "name": "Touarga"
     },
     {
-      "MA209": "Agadir"
+      "code": "MA209",
+      "name": "Agadir"
     },
     {
-      "MA210": "Agdz"
+      "code": "MA210",
+      "name": "Agdz"
     },
     {
-      "MA211": "Agni Izimmer"
+      "code": "MA211",
+      "name": "Agni Izimmer"
     },
     {
-      "MA212": "Aït Melloul"
+      "code": "MA212",
+      "name": "Aït Melloul"
     },
     {
-      "MA213": "Alnif"
+      "code": "MA213",
+      "name": "Alnif"
     },
     {
-      "MA214": "Anzi"
+      "code": "MA214",
+      "name": "Anzi"
     },
     {
-      "MA215": "Aoulouz"
+      "code": "MA215",
+      "name": "Aoulouz"
     },
     {
-      "MA216": "Aourir"
+      "code": "MA216",
+      "name": "Aourir"
     },
     {
-      "MA217": "Arazane"
+      "code": "MA217",
+      "name": "Arazane"
     },
     {
-      "MA218": "Aït Baha"
+      "code": "MA218",
+      "name": "Aït Baha"
     },
     {
-      "MA219": "Aït Iaâza"
+      "code": "MA219",
+      "name": "Aït Iaâza"
     },
     {
-      "MA220": "Aït Yalla"
+      "code": "MA220",
+      "name": "Aït Yalla"
     },
     {
-      "MA221": "Biougra"
+      "code": "MA221",
+      "name": "Biougra"
     },
     {
-      "MA222": "Boumalne-Dadès"
+      "code": "MA222",
+      "name": "Boumalne-Dadès"
     },
     {
-      "MA223": "Dcheira El Jihadia"
+      "code": "MA223",
+      "name": "Dcheira El Jihadia"
     },
     {
-      "MA224": "Drargua"
+      "code": "MA224",
+      "name": "Drargua"
     },
     {
-      "MA225": "El Guerdane"
+      "code": "MA225",
+      "name": "El Guerdane"
     },
     {
-      "MA226": "Harte Lyamine"
+      "code": "MA226",
+      "name": "Harte Lyamine"
     },
     {
-      "MA227": "Inezgane"
+      "code": "MA227",
+      "name": "Inezgane"
     },
     {
-      "MA228": "Irherm"
+      "code": "MA228",
+      "name": "Irherm"
     },
     {
-      "MA229": "Lakhsas"
+      "code": "MA229",
+      "name": "Lakhsas"
     },
     {
-      "MA230": "Lqliâa"
+      "code": "MA230",
+      "name": "Lqliâa"
     },
     {
-      "MA231": "Ouarzazate"
+      "code": "MA231",
+      "name": "Ouarzazate"
     },
     {
-      "MA232": "Oulad Berhil"
+      "code": "MA232",
+      "name": "Oulad Berhil"
     },
     {
-      "MA233": "Oulad Teïma"
+      "code": "MA233",
+      "name": "Oulad Teïma"
     },
     {
-      "MA234": "Skoura"
+      "code": "MA234",
+      "name": "Skoura"
     },
     {
-      "MA235": "Tafraout"
+      "code": "MA235",
+      "name": "Tafraout"
     },
     {
-      "MA236": "Taliouine"
+      "code": "MA236",
+      "name": "Taliouine"
     },
     {
-      "MA237": "Tamegroute"
+      "code": "MA237",
+      "name": "Tamegroute"
     },
     {
-      "MA238": "Taroudant"
+      "code": "MA238",
+      "name": "Taroudant"
     },
     {
-      "MA239": "Tiznit"
+      "code": "MA239",
+      "name": "Tiznit"
     },
     {
-      "MA240": "Zagora"
+      "code": "MA240",
+      "name": "Zagora"
     },
     {
-      "MA241": "Afourar"
+      "code": "MA241",
+      "name": "Afourar"
     },
     {
-      "MA242": "Azilal"
+      "code": "MA242",
+      "name": "Azilal"
     },
     {
-      "MA243": "Béni Mellal"
+      "code": "MA243",
+      "name": "Béni Mellal"
     },
     {
-      "MA244": "Bradia"
+      "code": "MA244",
+      "name": "Bradia"
     },
     {
-      "MA245": "Bzou"
+      "code": "MA245",
+      "name": "Bzou"
     },
     {
-      "MA246": "Demnate"
+      "code": "MA246",
+      "name": "Demnate"
     },
     {
-      "MA247": "El Ksiba"
+      "code": "MA247",
+      "name": "El Ksiba"
     },
     {
-      "MA248": "Foum Jamaa"
+      "code": "MA248",
+      "name": "Foum Jamaa"
     },
     {
-      "MA249": "Fquih Ben Salah"
+      "code": "MA249",
+      "name": "Fquih Ben Salah"
     },
     {
-      "MA250": "Kasba Tadla"
+      "code": "MA250",
+      "name": "Kasba Tadla"
     },
     {
-      "MA251": "Ouaouizeght"
+      "code": "MA251",
+      "name": "Ouaouizeght"
     },
     {
-      "MA252": "Oulad Nemma"
+      "code": "MA252",
+      "name": "Oulad Nemma"
     },
     {
-      "MA253": "Zaouïat Cheikh"
+      "code": "MA253",
+      "name": "Zaouïat Cheikh"
     },
     {
-      "MA254": "Tanger‎"
+      "code": "MA254",
+      "name": "Tanger‎"
     },
     {
-      "MA255": "Tétouan‎"
+      "code": "MA255",
+      "name": "Tétouan‎"
     },
     {
-      "MA256": "Assilah"
+      "code": "MA256",
+      "name": "Assilah"
     },
     {
-      "MA257": "Bab Berred"
+      "code": "MA257",
+      "name": "Bab Berred"
     },
     {
-      "MA258": "Bab Taza"
+      "code": "MA258",
+      "name": "Bab Taza"
     },
     {
-      "MA259": "Brikcha"
+      "code": "MA259",
+      "name": "Brikcha"
     },
     {
-      "MA260": "Chefchaouen"
+      "code": "MA260",
+      "name": "Chefchaouen"
     },
     {
-      "MA261": "Dar Bni Karrich"
+      "code": "MA261",
+      "name": "Dar Bni Karrich"
     },
     {
-      "MA262": "Dar Chaoui"
+      "code": "MA262",
+      "name": "Dar Chaoui"
     },
     {
-      "MA263": "Jebha"
+      "code": "MA263",
+      "name": "Jebha"
     },
     {
-      "MA264": "Khémis Sahel"
+      "code": "MA264",
+      "name": "Khémis Sahel"
     },
     {
-      "MA265": "Ksar El Kébir"
+      "code": "MA265",
+      "name": "Ksar El Kébir"
     },
     {
-      "MA266": "Larache"
+      "code": "MA266",
+      "name": "Larache"
     },
     {
-      "MA267": "Moqrisset"
+      "code": "MA267",
+      "name": "Moqrisset"
     },
     {
-      "MA268": "Ouezzane"
+      "code": "MA268",
+      "name": "Ouezzane"
     },
     {
-      "MA269": "Ajdir‎"
+      "code": "MA269",
+      "name": "Ajdir‎"
     },
     {
-      "MA270": "Aknoul‎"
+      "code": "MA270",
+      "name": "Aknoul‎"
     },
     {
-      "MA271": "Al Hoceïma‎"
+      "code": "MA271",
+      "name": "Al Hoceïma‎"
     },
     {
-      "MA272": "Bni Bouayach‎"
+      "code": "MA272",
+      "name": "Bni Bouayach‎"
     },
     {
-      "MA273": "Bni Hadifa‎"
+      "code": "MA273",
+      "name": "Bni Hadifa‎"
     },
     {
-      "MA274": "Ghafsai‎"
+      "code": "MA274",
+      "name": "Ghafsai‎"
     },
     {
-      "MA275": "Guercif‎"
+      "code": "MA275",
+      "name": "Guercif‎"
     },
     {
-      "MA276": "Imzouren‎"
+      "code": "MA276",
+      "name": "Imzouren‎"
     },
     {
-      "MA277": "Karia Ba Mohamed‎"
+      "code": "MA277",
+      "name": "Karia Ba Mohamed‎"
     },
     {
-      "MA278": "Oulad Zbair‎"
+      "code": "MA278",
+      "name": "Oulad Zbair‎"
     },
     {
-      "MA279": "Tahla‎"
+      "code": "MA279",
+      "name": "Tahla‎"
     },
     {
-      "MA280": "Tamassint‎"
+      "code": "MA280",
+      "name": "Tamassint‎"
     },
     {
-      "MA281": "Taounate‎"
+      "code": "MA281",
+      "name": "Taounate‎"
     },
     {
-      "MA282": "Targuist‎"
+      "code": "MA282",
+      "name": "Targuist‎"
     },
     {
-      "MA283": "Taza‎"
+      "code": "MA283",
+      "name": "Taza‎"
     },
     {
-      "MA284": "Taïnaste‎"
+      "code": "MA284",
+      "name": "Taïnaste‎"
     },
     {
-      "MA285": "Thar Es-Souk‎"
+      "code": "MA285",
+      "name": "Thar Es-Souk‎"
     },
     {
-      "MA286": "Tissa‎"
+      "code": "MA286",
+      "name": "Tissa‎"
     },
     {
-      "MA287": "Laayoune‎"
+      "code": "MA287",
+      "name": "Laayoune‎"
     },
     {
-      "MA288": "El Marsa‎"
+      "code": "MA288",
+      "name": "El Marsa‎"
     },
     {
-      "MA289": "Tarfaya‎"
+      "code": "MA289",
+      "name": "Tarfaya‎"
     },
     {
-      "MA290": "Boujdour‎"
+      "code": "MA290",
+      "name": "Boujdour‎"
     }
   ]
 }
